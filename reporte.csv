@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Animoto,animoto.com,2018-07-10,"Dates of birth, Email addresses, Geographic locations, Names, Passwords",Sí,No
+Gravatar,gravatar.com,2020-10-03,"Email addresses, Names, Usernames",Sí,No
+Deezer,deezer.com,2019-04-22,"Dates of birth, Email addresses, Genders, Geographic locations, IP addresses, Names, Spoken languages, Usernames",Sí,No
